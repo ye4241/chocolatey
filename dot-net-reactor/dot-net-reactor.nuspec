@@ -38,19 +38,19 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>ye4241</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.eziriz.com/dotnet_reactor.htm</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/dot-net-reactor.png</iconUrl>-->
+    <iconUrl>https://www.eziriz.com/images/reactor_mp_logo.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
-    <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
+    <docsUrl>https://www.eziriz.com/help/index.html</docsUrl>
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>.NET Reactor</tags>
     <summary>.NET Reactor is a powerful .NET code protection system which completely stops any decompiling.</summary>
     <description>.NET Reactor is a powerful code protection and software licensing system for software written for the .NET Framework, and supports all languages that generate .NET assemblies.</description>
-    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
+    <releaseNotes>https://www.eziriz.com/reactor_history.htm</releaseNotes>
     <!-- =============================== -->      
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
