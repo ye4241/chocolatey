@@ -47,7 +47,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <docsUrl>https://www.eziriz.com/help/index.html</docsUrl>
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <tags>.NET Reactor</tags>
+    <tags>.net reactor</tags>
     <summary>.NET Reactor is a powerful .NET code protection system which completely stops any decompiling.</summary>
     <description>.NET Reactor is a powerful code protection and software licensing system for software written for the .NET Framework, and supports all languages that generate .NET assemblies.</description>
     <releaseNotes>https://www.eziriz.com/reactor_history.htm</releaseNotes>
