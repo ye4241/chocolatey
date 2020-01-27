@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
   softwareName  = '.NET Reactor'
-  checksum      = 'e4fc636d5235b4ab69374472664faee99bb15be68e102ea5f535675cf185f596'
+  checksum      = '4cadcc4425571a8e41e119a813998e3fcd97878d00c4747707e2414fcf4e68d2'
   checksumType  = 'sha256'
   silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`"" # ALLUSERS=1 DISABLEDESKTOPSHORTCUT=1 ADDDESKTOPICON=0 ADDSTARTMENU=0
   validExitCodes= @(0, 3010, 1641)
